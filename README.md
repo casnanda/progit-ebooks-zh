@@ -5,6 +5,14 @@ Pro Git 中文电子书
 
 制作过程遵循了 [https://github.com/progit/progit/blob/master/README.md](https://github.com/progit/progit/blob/master/README.md)的相关说明。
 
+命令
+----
+
+    FORMAT=mobi ruby makeebooks zh
+    FORMAT=epub ruby makeebooks zh
+    ./makepdfs zh
+
+
 
 格式
 ----
